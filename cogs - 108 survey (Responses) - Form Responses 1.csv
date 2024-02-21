@@ -1,0 +1,102 @@
+Timestamp,Age,Gender,Hometown (include only state and city),Major/majors,favorite genre #1,favorite genre #2,favorite genre #3,Who is your favorite artist(s)?,How many hours per day do you listen to music? ,Do you play any instrument,What instrument do you play?,Are you an introvert or extrovert? ,What are your hobbies? If it's more than one please put commas in between your responses. ,What is/are your favorite color(s)? 
+2/13/2024 13:21:59,21,Female,"Sunnyvale, CA","Cognitive Science (D&I), Education Sciences",pop,mandopop,R&B,"Jonah Kagen, Chen, Eric Chou",4,No,,Introvert,"rock climbing, dancing, singing, aerial arts, gaming",Green
+2/13/2024 13:22:12,19,Male,"Dallas, Texas",Data Science,R&B,jazz,pop,Laufey,5,Yes,clarinet,Extrovert,"Reading, Zelda games",Green
+2/13/2024 13:23:01,19,Male,Dallas Texas,DSC & Business Econ,classical,country,jazz,N/A,0-1,Yes,guitar,Extrovert,"Table tennis, read, video games",Yellow
+2/13/2024 13:24:14,20,Female,"Garden Grove, CA","Bioengineering, Math/CS",R&B,pop,folk,"Laufey, NIKI, Renee Rap",2,Yes,piano,Introvert,"Knitting, Drawing","Red, Pink, Brown, Green, Black"
+2/13/2024 13:27:11,22,Female,"Brea, California",Business Psychology,Christian,pop,hiphop/rap,Phil Wickham,3,Yes,piano,Introvert,"baking, cooking, music, cafe hopping, traveling",Purple
+2/13/2024 13:35:36,20,Female,"south gate , ca",media ,pop,folk,hiphop/rap,frank ocean,4,No,,Introvert,"photography, theater, movies","Pink, Blue, Brown"
+2/13/2024 13:50:21,21,Female,Bellevue WA,ESYS EBE,pop,folk,rock,Taylor swift,2-3,Yes,"piano, Flute ",Introvert,"Reading, hiking ","Pink, Green"
+2/13/2024 13:56:41,20,Female,"Lima, Peru",Data Science,rock,EDM,reggaeton,Paramore,5,Yes,piano,Introvert,"Reading,cooking,drawing,traveling",Blue
+2/13/2024 13:58:18,21,Female,"Monterrey, Nuevo Leon",Human Biology,alternative,rock,indie,lana del rey,2,No,,Introvert,watch movies,Blue
+2/13/2024 14:03:49,20,Female,El Centro California ,"Clinical Psychology, International Business  ",hiphop/rap,R&B,pop,Drake ,4,No,,Introvert,"Shopping, friends, puzzles, music ","Pink, Black"
+2/13/2024 14:20:40,27,Male,"Murrieta, CA",Cogsci ML,EDM,pop,J-pop,Keshi,2,No,,Introvert,"Play volleyball, play video game, watch anime, read manga","Blue, Green"
+2/13/2024 14:22:40,21,Male,"Vacaville, CA","Business Economics, Marine Biology ",house,reggaeton,pop,"The 1975, Bad Bunny, Tiesto, Quevedo ",2,Yes,"guitar, piano",Extrovert,"Making music, reading, traveling, cooking ","Blue, Brown, Green"
+2/13/2024 14:24:10,23,Male,"Santa Cruz de la Sierra, Bolivia",Cognitive Science (Design and Interaction),pop,reggaeton,hiphop/rap,Bad Bunny,2,No,,Introvert,"Games, mountain biking, spending money","Blue, Purple"
+2/13/2024 14:26:47,21,Male,"Hangzhou, China",Computer science,classical,country,pop,none,1,Yes,piano,Introvert,"Playing video games, reading books","Blue, Black"
+2/13/2024 14:57:36,20,Female,"Sunnyvale, Ca",Cog Sci ,R&B,classical,rock,"SZA, Tamino, Hers, Lana del Ray ",2,No,,Introvert,"Reading, journaling, baking ",Green
+2/13/2024 14:57:53,21,Female,"California, Chula Vista",Cog Sci Design,R&B,hiphop/rap,house,"Usher, Tyla, Summer Walker, Jorja Smith, Knock2",6,Yes,ukulele,Introvert,Dance,"Blue, Brown, Green"
+2/13/2024 14:58:36,21,Female,Madrid spain,Business economics ,pop,reggaeton,hiphop/rap,"Beret, melendi, mecano, wising y ya del, mike towers ",3,Yes,drums,Extrovert,"Netflix, reading, sports",Pink
+2/13/2024 15:19:15,20,Female,"Ann Arbor, MI",Molecular and Cell Biology,pop,hiphop/rap,reggaeton,"taylor swift, bad bunny, drake",~3,Yes,violin,Introvert,"running, drawing","Pink, Blue, Yellow"
+2/13/2024 15:30:33,20,Female,"Hershey, PA",Aerospace Structural Engineering ,pop,R&B,country,zach bryan,3,No,,Introvert,tennis,"Pink, Green"
+2/13/2024 15:38:28,20,Male,California Cupertino,Electrical Engineering,hiphop/rap,pop,EDM,"Kanye, Blvck Svm",1,No,,Introvert,"Soccer, skating","Yellow, Black"
+2/13/2024 15:41:08,21,Male,"Pleasanton, California","Cognitive Science, Machine Learning",R&B,k-pop,pop,"NIKI, Seori, Kishi Bashi",2,Yes,violin,Introvert,"reading, tetris, league of legends, valorant","Blue, Green"
+2/13/2024 15:46:42,21,Male,"Portland, Oregon",Urban Studies and Planning,hiphop/rap,rock,heavy metal,Kanye or Yung Lean,3.5,Yes,guitar,Introvert,"Video games, guitar, lego, drawing","Blue, Green"
+2/13/2024 15:52:56,20,Male,"Roslyn, NY",Math-CS,rock,pop,hiphop/rap,Kendrick Lamar,1,Yes,"trumpet, harmonica",Extrovert,"sports, reading, surfing, drinking",Green
+2/13/2024 16:05:58,22,Female,"Los Angeles, CA",Psychology & Human Developmental Science,k-pop,R&B,jazz,"Laufey, Beabadoobee, DAY6, LeSerrafim",3,No,,Extrovert,"Crocheting, Photography, Gaming",Pink
+2/13/2024 16:25:59,22,Female,"San Jose, California",Psychology,pop,indie,country,Taylor Swift,less than 1,Yes,"guitar, piano, flute, ukulele",Introvert,"Reading, watching tv/movies, music, hanging out with friends","Red, Pink, Blue, Green, Black, Purple"
+2/13/2024 16:56:11,20,Male,"Spokane, Wa",Cognitive and Behavioral Neuroscience,pop,hiphop/rap,heavy metal,"Omnific, Sleep Token, meek mill, Sammy Rae",3.5,No,,Introvert,"Reading, dancing, climbing, rowing, lifting, calisthenics, data science","Blue, Green, Black"
+2/13/2024 18:47:00,21,Female,San Diego CA,General Biology,Pashto music,pop,rock,"Fahad Darya, Nicky Youre",0-1,No,,Introvert,"gardening, cooking",Blue
+2/13/2024 20:11:37,21,Male,"Covina, California",Cognitive Science,J-pop,alternative rock,oldies,Toyosaki Aki,10+,No,,Introvert,"Workout, anime, walk","Red, Black"
+2/13/2024 20:31:56,26,Male,"Rosemead, CA",CogSci w/ ML and NC,pop,hiphop/rap,punk,J Cole,5-7,No,,Extrovert,"working out, gaming, running, basketball, bouldering","Blue, Green, Black"
+2/13/2024 20:37:29,21,Female,"San Francisco, CA",Cognitive science,pop,R&B,hiphop/rap,"Dominic Fike, Taylor Swift",3.5,Yes,"violin, piano",Introvert,"reading, watching shows, biking","Blue, Green, Purple"
+2/13/2024 23:45:25,20,Female,"Glendora, CA",Math-Cs,k-pop,pop,R&B,"TXT, Mitski, Victoria Monet",2,No,,Introvert,"Crocheting, cooking","Pink, Blue, Green"
+2/14/2024 8:20:16,21,Female,"Sunnyvale, CA",Math-CS,R&B,hiphop/rap,reggae,"J Cole, Larry June, Tupac",3,Yes,piano,Extrovert,"Softball, Hiking, Going to the beach, Weightlifting",Orange
+2/14/2024 9:25:41,21 years old,Male,"Chula Vista, California",MathCS,Power Metal,jpop,reggaeton,Stratovarius,3,No,,Introvert,Powerlifting,"Blue, Yellow"
+2/14/2024 10:22:28,31,Male,"El Cajon, CA",Cognitive and behavioral neuroscience,rock,classical,R&B,James Blake,5,Yes,piano,Introvert,"Hiking, ultimate frisbee, playing music, botany",Blue
+2/14/2024 11:10:23,22,Male,"Flemington, New Jersey",Computer Engineering,pop,house,hiphop/rap,Glass Animals,7,No,,Extrovert,"Skiing, Hiking, hanging out with friends",Blue
+2/14/2024 12:43:11,23,Male,"High Point, NC",Math Econ,classical,rock,country,Bach,4,Yes,piano,Extrovert,Calligraphy ,Blue
+2/14/2024 12:44:44,20,Male,San Diego ca,International Business ,EDM,pop,k-pop,"Slander, gryffin ",4 hours ,No,,Introvert,"Photography, Watching tv ",Blue
+2/14/2024 12:46:57,20,Male,"Long Beach, CA",Environmental systems,house,EDM,rock,Rolling Stones,15,Yes,"guitar, Horn",Introvert,"Calisthenics, music","Blue, Black, Purple"
+2/14/2024 12:49:29,21,Female,"Mexico City, Mexico ",Intl Business ,pop,R&B,house,Taylor Swift,1,No,,Extrovert,Basketball ,Pink
+2/14/2024 12:52:15,19,Female,"Dallas, TX","Business Economics, minor in computational social science",Indie,jazz,reggaeton,"Laufey, ABBA, Maluma",3,Yes,"piano, clarinet",Extrovert,"Reading, Embroidery","Pink, Blue, Green"
+2/14/2024 14:38:08,20,Male,"Cleveland, Ohio",Business Economics,rock,punk,folk,Last Dinosaurs,3,No,,Extrovert,"Painting, Soccer, Video Games, Language Learning","Blue, Yellow"
+2/14/2024 19:19:50,25,Male,"Oceanside, CA",MathCS,hiphop/rap,alternative,R&B,"Tyler the Creator, Anderson .Paak, Tame Impala",3-4,No,,Introvert,"Cooking, listening to music, playing videogames",Green
+2/15/2024 11:50:27,21,Male,"Algonquin, Illinois",Cognitive Science: Design and Interaction,hiphop/rap,pop,k-pop,Iann Dior,3,No,,Introvert,"Video Games, Watching Tv, Cooking, Gambling","Red, White"
+2/15/2024 11:57:56,21,Male,"Panama City, Panama",Data Science,reggaeton,house,rock,Bad Bunny,1,Yes,guitar,Extrovert,"Fishing, cooking","Blue, Black, White"
+2/15/2024 12:13:59,22,Female,"San Jose, CA",Data Science,k-pop,pop,hiphop/rap,NCT,10,No,,Introvert,"Drawing, cooking, and traveling/exploring new places","Pink, Yellow, Green"
+2/15/2024 13:06:33,21,Female,"San Diego, CA",Cognitive Science,EDM,punk,R&B,Bladee,2-3 hours,No,,Introvert,"video games, drawing, painting, journaling","Red, Pink, Black, White"
+2/15/2024 13:23:14,21,Female,"Shanghai, China",Psychology BS,pop,EDM,R&B,I don't have a specific favorite artist.,1 hour,No,,Introvert,"listening to music, watch youtube, play phone games, cooking","Blue, Green, Purple"
+2/15/2024 16:14:36,21,Female,"San Diego, CA",Computer Science,hiphop/rap,EDM,classical,Metro Boomin,3,Yes,"violin, piano",Extrovert,"figure skating, violin, piano","Pink, Yellow, Green, White"
+2/15/2024 16:35:56,21,Male,"Artesia, California",Computer Science,k-pop,pop,hiphop/rap,"Stray Kids, ZICO, JUNNY, Emotional Orange",4,Yes,"guitar, piano",Introvert,"Poker, Chess, Youtube, Video Games(tft), Reading","Black, White"
+2/15/2024 21:00:46,21,Female,"Oakland, California ",Business Economics ,k-pop,EDM,pop,BTS,3,Yes,violin,Introvert,"Video games, baking, origami, crocheting",Purple
+2/15/2024 21:00:47,20,Male,"Wichita, Kansas",Mechanical Engineering ,Indie,pop,jazz,Sammy Rae and the friends,1/3,Yes,"piano, Trumpet",Introvert,"Drawing, going to the gym, writing, watching tv and movies","Blue, Green"
+2/15/2024 21:02:02,20,Female,"Oakland, CA",Psychology/Social Psychology,pop,R&B,k-pop,Post Malone,3-4,No,,Introvert,"Sleeping, honestly. Nothing other than that.",Black
+2/15/2024 21:03:37,20,Female,"El Monte, CA",Public Health w/ Concentration in Medicine ,R&B,hiphop/rap,EDM,"Sza, drake, Beyoncé ",3 hours ,No,,Extrovert,"Dancing, lifting weights, cooking ","Purple, White"
+2/15/2024 21:09:03,22,Male,Oaklanr,Business economics,hiphop/rap,R&B,EDM,Lil baby,5,No,,Introvert,"Cars,gym,videography,bowling,hiking","Red, Blue, Green, Black, White"
+2/15/2024 21:11:22,20,Male,"San Ramon, CA",Math - CS,pop,hiphop/rap,EDM,winnetka bowling league,7,No,,Introvert,"working out, video games","Green, Black"
+2/15/2024 21:13:14,20,Female,"San Diego, CA",CSE,pop,k-pop,lofi,Yorushika,2,Yes,gu zheng,Introvert,"video games, anime, rock climbing, baking","Blue, Green"
+2/15/2024 21:17:38,19,Male,"Irvine, CA",Computer Science,EDM,EDM,k-pop,eaJ,4,Yes,piano,Introvert,"Gaming, Sleeping",Blue
+2/15/2024 21:20:19,19,Female,"Monterey Park, CA",General Biology,rock,R&B,pop,"Bladee, Blood Orange, Radiohead",3,No,,Extrovert,"Film photos, makeup, thrifting, movies","Pink, Black"
+2/15/2024 21:23:18,20,Female,"Northridge, California",Nanoengineering,hiphop/rap,R&B,rock,"Tyler, the Creator",3,Yes,piano,Introvert,"Cooking, Baking, Singing","Pink, Purple"
+2/15/2024 21:24:38,21,Female,"Dublin, CA",Data Science,R&B,pop,EDM,The Japanese House,5,Yes,violin,Introvert,"Swimming, hiking, baking, video games","Pink, Blue, Black, Purple"
+2/15/2024 21:33:08,20,Male,oakland ca,psyc,EDM,pop,R&B,"illenium, slander, sza",10,No,,Introvert,reading,Blue
+2/15/2024 21:40:37,20,Female,"San Diego, CA",Cognitive science w/ spec. Neuroscience,R&B,hiphop/rap,pop,HYBS,5,No,,Introvert,"Reading, gaming","Green, Black, White"
+2/15/2024 22:38:45,21,Male,"Chula Vista, CA",General Biology,pop,hiphop/rap,k-pop,"The Score, Rynx, Lauv",3-4,No,,Introvert,"Watching sports, reading","Blue, White"
+2/15/2024 23:05:51,23,Female,"Taipei, Taiwan",Cognitive Science w Specialization in Machine Learning and Neural Computation,R&B,pop,EDM,Jhene Aiko,5,Yes,"guitar, piano",Extrovert,"Crochet, going to the beach, watch sunset, cook, discover new foods/recipes, tan, hang out with friends, gym","Pink, Blue, Purple, White"
+2/15/2024 23:19:38,20,Male,"Chula Vista, CA",Chem Eng,R&B,pop,hiphop/rap,Ne-Yo,2,Yes,guitar,Extrovert,"Basketball, Gym",Green
+2/16/2024 0:31:30,22,Male,"San Gabriel, California ",Business Economics ,pop,hiphop/rap,house,Taylor Swift,2,Yes,piano,Introvert,"Watching movies, music ","Blue, Green"
+2/16/2024 0:36:03,20,Female,"San Diego, CA",computer science: bioinformatics ,EDM,hiphop/rap,pop,"illenium, drake",5,Yes,"violin, piano",Introvert,working out,Blue
+2/16/2024 1:39:44,20,Male,"Anaheim Hills, CA",Human Biology and Clinical Psychology,k-pop,R&B,EDM,LE SSERAFIM 🧏‍♂️👆👉🙆‍♂️,4,No,,Introvert,"Eating, cooking, shopping, listening to music/going to concerts","Blue, Brown, Green"
+2/16/2024 9:55:53,21,Male,International,CS and Math - Stats Double Major,pop,EDM,classical,"Ado, Yoasobi",3,Yes,piano,Introvert,"Games, Movies","Blue, Green, Black, White"
+2/16/2024 9:57:13,20,Female,"Sacramento, CA",World Literature (Americas) and Sociology (Law and Society),rock,pop,punk,rina sawayama,1,No,,Extrovert,"reading, movies",Pink
+2/16/2024 11:26:43,20,Female,"danville, california ","business psychology major, accounting minor ",k-pop,pop,hiphop/rap,"enhypen, taylor swift, gracie abrams",8,Yes,"piano, erhu (chinese instrument)",Extrovert,"reading, skiing, figure skating, swimming","Blue, Green, White"
+2/16/2024 13:22:10,20,Female,China,Data Science,k-pop,pop,folk,SEVENTEEN,20,Yes,piano,Extrovert,Photography,Blue
+2/16/2024 15:01:38,22,Female,"San Marcos, California",Public Health,k-pop,Alternative,pop,BTS,1-2,Yes,piano,Introvert,"Watching YouTube, journaling, crafts",Blue
+2/16/2024 15:26:29,20,Male,"California, Rosemead ",Visual Arts Studio,R&B,pop,EDM,Daniel Caesar ,3-4 hrs ,Yes,piano,Introvert,"Painting, drawing, sculpture, listening to music ","Blue, Brown"
+2/16/2024 15:41:14,20,Female,CA San Pedro,Data Science,pop,EDM,R&B,"Mrs. Green Apple, Creepy Nuts",3,Yes,"guitar, piano",Introvert,Listening to music or watching something,Blue
+2/16/2024 16:59:18,20,Female,"El Cajon, California",Cognitive Science specializing in Design and Interaction,k-pop,pop,indie,"ATEEZ, P1Harmony, Zeph, Aurora, The Rose",1,No,,Introvert,"creative writing, playing video games, watching variety shows, hiking, crocheting","Blue, Green"
+2/17/2024 1:17:17,20,Female,"Scottsdale, Arizona",Cognitive Science: Design & Interaction,R&B,indie,hiphop/rap,Kendrick Lamar,1,No,,Introvert,"crochet, baking, aerial lyra","Pink, Green"
+2/17/2024 17:35:23,21,Male,"Los Angeles, California",Cognitive Science,pop,rock,folk,Kid Cudi,4,Yes,"guitar, piano",Introvert,"running, reading, weightlifting, journaling, traveling.","Red, Blue, Black"
+2/18/2024 21:10:19,22,nonbinary,"Los Angeles, California",Cognitive Science,rock,R&B,folk,Will Wood,3,Yes,oboe,Introvert,"reading, video games, talking with friends","Pink, Orange, Yellow, Green"
+2/18/2024 21:48:21,20,Male,"Redondo Beach, CA",Math/CS,worship,country,rock,bruno mars,2,No,,Extrovert,"surf, soccer",Blue
+2/19/2024 13:24:11,20,nonbinary,"Livermore, CA",BioInformatics (BI34),k-pop,reggaeton,hiphop/rap,ATEEZ,3,Yes,"violin, piano",Introvert,"knitting, gaming, baking",Blue
+2/19/2024 14:21:44,21,Female,Albany NY,Cognitive Science,folk,pop,rock,"Hozier, Noah Kahan, Ryan Beatty",7,Yes,piano,Introvert,"painting, reading, bullet journaling","Blue, Brown, Green"
+2/20/2024 15:03:44,22,Female,"Sacramento, CA",Computer Science and Economics,Alternative,rock,punk,Imagine Dragons,12,No,,Introvert,crochet,"Blue, Black, Purple, White"
+2/20/2024 15:03:48,18,Female,"San Luis Obispo, CA",Bioengineering: biotechnology major/ General Biology minor,country,pop,rock,Brad Paisley,2,Yes,piano,Extrovert,"Swimming, going on hikes",Blue
+2/20/2024 15:20:24,18,Male,"San Diego, CA",CS,k-pop,pop,house,UPSAHL,4,No,,Introvert,"Programming, Video Games",Purple
+2/20/2024 15:45:58,20,Female,"Folsom, CA",Computer science,EDM,rock,folk,Porter Robinson,3.5,Yes,piano,Introvert,"digital art, music, weightlifting","Black, Purple, White"
+2/20/2024 16:31:04,20,Female,"Mexicali, Mexico",Human Biology,R&B,reggaeton,hiphop/rap,"Bad Bunny, Kendrick Lamar, Olivia Rodrigo",4,No,,Extrovert,"Watching movies, chess","Pink, Green, Black"
+2/20/2024 16:36:39,18,Female,"Temecula, CA",Math-CS,j-pop,k-pop,rock,"mafumafu, ado, yuu miyashita, natori, blackpink, new jeans, skz",5+,Yes,"piano, clarinet",Introvert,"video games, art, crochet, singing","Blue, Green, Purple"
+2/20/2024 18:19:20,21,Female,"San Clemente, CA",Psychology / Political Science,pop,rock,folk,Taylor Swift,5,Yes,"guitar, piano",Extrovert,"reading,karaoke,exploring","Red, Pink, Blue, Purple"
+2/20/2024 19:10:53,21,Female,"San Francisco, California",Business Psychology,EDM,R&B,pop,Odesza,4,No,,Extrovert,Gym,"Blue, Brown, Green"
+2/20/2024 19:11:17,24,Male,"CA, Lake Forest",Cognitive Science,rock,punk,heavy metal,Guns N Roses,3,Yes,"guitar, piano, drums",Introvert,"Cooking, gardening","Blue, Green"
+2/20/2024 19:33:29,20,Male,Pomona CA,Electrical engineering ,reggaeton,hiphop/rap,R&B,Gente de Zona,1,No,,Extrovert,"Working out, playing video games, playing volleyball  & basketball ",Blue
+2/20/2024 19:43:27,21,Female,"Guadalajara, Jalisco ",Biochem ,pop,reggaeton,rock,The lumineers ,2,Yes,"guitar, piano",Extrovert,"Soccer, playing guitar, reading, surfing, watching tv ",Blue
+2/20/2024 23:17:27,20,Female,"San Diego, CA",Psychology & biochem ,hiphop/rap,folk,reggaeton,"Drake, Gregory Alan Isakov, SZA, Zach Bryan, Brent Faiyaz",10,Yes,"guitar, piano",Extrovert,"Surf, sing, read, write, gym ","Pink, Green, White"
+2/20/2024 23:31:30,20,Male,Bakersfield California,Computer Science,rock,heavy metal,house,Deftones,3,Yes,"guitar, piano, drums",Introvert,"Guitar, Drawing","Red, Green, Black"
+2/21/2024 10:02:32,21,Male,"Hermosillo, Sonora",Computer Engineering ,reggae,pop,hiphop/rap,Quevedo,4,No,,Extrovert,"Tennis, Padel, running",Red
+2/21/2024 10:57:31,21,Female,"North Hills,California ",Mechanical engineering ,k-pop,Banda,pop,"Blackpink , (G)-idle, red velvet ",4,No,,Introvert,To watch tv shows and skateboard,Purple
+2/21/2024 11:17:22,20,Male,"San Diego, California",Computer Science,pop,rock,hiphop/rap,"Travis Scott, Taylor Swift, Elton John",6,Yes,piano,Extrovert,"Playing Ice Hockey, piano, hiking, traveling, reading, cooking",Blue
+2/21/2024 11:57:50,20,Female,San francisco,Cognitive science design and interaction ,R&B,k-pop,pop,Kehlani,2?,No,,Introvert,"Drawing, hanging out with friends","Yellow, Green"
+2/21/2024 12:13:53,21,Male,"Belo Horizonte, MG",International business ,EDM,country,house,Vintage culture ,3,Yes,"drums, Saxophone ",Extrovert,Videogames,Blue
+2/21/2024 14:35:39,21,Female,Portland OR,Cognitive Science Neuroscience,hiphop/rap,rock,pop,Amine,4,No,,Introvert,"Reading, dance, crochet, jiu jitsu","Pink, Green"
